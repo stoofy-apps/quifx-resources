@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "categories": [
     {
       "id": "anime",
@@ -16,46 +16,151 @@
   ],
   "items": [
     {
-      "id": "anime_vivid_pop",
-      "name": "Vivid Pop",
+      "id": "anime_4k_hd_cc",
+      "name": "4K HD CC",
       "category": "anime",
-      "file": "luts/anime/vivid_pop.cube",
-      "thumb": "luts/anime/vivid_pop.jpg"
+      "file": "luts/anime/4k_hd_cc.png",
+      "thumb": "luts/anime/4k_hd_cc.jpg"
     },
     {
-      "id": "anime_soft_pastel",
-      "name": "Soft Pastel",
+      "id": "anime_hd_cc",
+      "name": "HD CC",
       "category": "anime",
-      "file": "luts/anime/soft_pastel.cube",
-      "thumb": "luts/anime/soft_pastel.jpg"
+      "file": "luts/anime/hd_cc.png",
+      "thumb": "luts/anime/hd_cc.jpg"
     },
     {
-      "id": "football_stadium_pop",
-      "name": "Stadium Pop",
-      "category": "football",
-      "file": "luts/football/stadium_pop.cube",
-      "thumb": "luts/football/stadium_pop.jpg"
+      "id": "anime_hd_cc_2",
+      "name": "HD CC 2",
+      "category": "anime",
+      "file": "luts/anime/hd_cc_2.png",
+      "thumb": "luts/anime/hd_cc_2.jpg"
     },
     {
-      "id": "football_night_match",
-      "name": "Night Match",
-      "category": "football",
-      "file": "luts/football/night_match.cube",
-      "thumb": "luts/football/night_match.jpg"
+      "id": "anime_hd_cc_3",
+      "name": "HD CC 3",
+      "category": "anime",
+      "file": "luts/anime/hd_cc_3.png",
+      "thumb": "luts/anime/hd_cc_3.jpg"
     },
     {
-      "id": "movies_teal_orange",
-      "name": "Teal & Orange",
-      "category": "movies",
-      "file": "luts/movies/teal_orange.cube",
-      "thumb": "luts/movies/teal_orange.jpg"
+      "id": "anime_hd_cc_4",
+      "name": "HD CC 4",
+      "category": "anime",
+      "file": "luts/anime/hd_cc_4.png",
+      "thumb": "luts/anime/hd_cc_4.jpg"
     },
     {
-      "id": "movies_vintage_film",
-      "name": "Vintage Film",
-      "category": "movies",
-      "file": "luts/movies/vintage_film.cube",
-      "thumb": "luts/movies/vintage_film.jpg"
+      "id": "anime_dark_cc",
+      "name": "Dark CC",
+      "category": "anime",
+      "file": "luts/anime/dark_cc.png",
+      "thumb": "luts/anime/dark_cc.jpg"
+    },
+    {
+      "id": "anime_dark_cc_2",
+      "name": "Dark CC 2",
+      "category": "anime",
+      "file": "luts/anime/dark_cc_2.png",
+      "thumb": "luts/anime/dark_cc_2.jpg"
+    },
+    {
+      "id": "anime_soft_dark_cc",
+      "name": "Soft Dark CC",
+      "category": "anime",
+      "file": "luts/anime/soft_dark_cc.png",
+      "thumb": "luts/anime/soft_dark_cc.jpg"
+    },
+    {
+      "id": "anime_clean_cc",
+      "name": "Clean CC",
+      "category": "anime",
+      "file": "luts/anime/clean_cc.png",
+      "thumb": "luts/anime/clean_cc.jpg"
+    },
+    {
+      "id": "anime_clean_cc_2",
+      "name": "Clean CC 2",
+      "category": "anime",
+      "file": "luts/anime/clean_cc_2.png",
+      "thumb": "luts/anime/clean_cc_2.jpg"
+    },
+    {
+      "id": "anime_clean_cc_3",
+      "name": "Clean CC 3",
+      "category": "anime",
+      "file": "luts/anime/clean_cc_3.png",
+      "thumb": "luts/anime/clean_cc_3.jpg"
+    },
+    {
+      "id": "anime_soft_cc",
+      "name": "Soft CC",
+      "category": "anime",
+      "file": "luts/anime/soft_cc.png",
+      "thumb": "luts/anime/soft_cc.jpg"
+    },
+    {
+      "id": "anime_soft_cc_2",
+      "name": "Soft CC 2",
+      "category": "anime",
+      "file": "luts/anime/soft_cc_2.png",
+      "thumb": "luts/anime/soft_cc_2.jpg"
+    },
+    {
+      "id": "anime_soft_coloring",
+      "name": "Soft Coloring",
+      "category": "anime",
+      "file": "luts/anime/soft_coloring.png",
+      "thumb": "luts/anime/soft_coloring.jpg"
+    },
+    {
+      "id": "anime_cold_cc",
+      "name": "Cold CC",
+      "category": "anime",
+      "file": "luts/anime/cold_cc.png",
+      "thumb": "luts/anime/cold_cc.jpg"
+    },
+    {
+      "id": "anime_cold_cc_2",
+      "name": "Cold CC 2",
+      "category": "anime",
+      "file": "luts/anime/cold_cc_2.png",
+      "thumb": "luts/anime/cold_cc_2.jpg"
+    },
+    {
+      "id": "anime_cold_cc_3",
+      "name": "Cold CC 3",
+      "category": "anime",
+      "file": "luts/anime/cold_cc_3.png",
+      "thumb": "luts/anime/cold_cc_3.jpg"
+    },
+    {
+      "id": "anime_coloring_cc",
+      "name": "Coloring CC",
+      "category": "anime",
+      "file": "luts/anime/coloring_cc.png",
+      "thumb": "luts/anime/coloring_cc.jpg"
+    },
+    {
+      "id": "anime_coloring_cc_2",
+      "name": "Coloring CC 2",
+      "category": "anime",
+      "file": "luts/anime/coloring_cc_2.png",
+      "thumb": "luts/anime/coloring_cc_2.jpg"
+    },
+    {
+      "id": "anime_coloring_cc_3",
+      "name": "Coloring CC 3",
+      "category": "anime",
+      "file": "luts/anime/coloring_cc_3.png",
+      "thumb": "luts/anime/coloring_cc_3.jpg"
+    },
+    {
+      "id": "anime_coloring_cc_4",
+      "name": "Coloring CC 4",
+      "category": "anime",
+      "file": "luts/anime/coloring_cc_4.png",
+      "thumb": "luts/anime/coloring_cc_4.jpg"
     }
   ]
 }
